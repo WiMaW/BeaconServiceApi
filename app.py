@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 import requests
 from bs4 import BeautifulSoup
 
@@ -6,8 +6,12 @@ app = Flask(__name__)
 
 @app.route('/scrape', methods=['GET'])
 
+@app.route('/html')
+def html():
+    return send_from_directory('.', 'main.html')
+
 def scrape():
-    url = request.args.get('url') #url 
+    url = request.args.get('https://actioncreatorapi.onrender.com/html') #url 
     tag = request.args.get ('div') #div?
     class_name = request.args.get('element')#class name to download
 
