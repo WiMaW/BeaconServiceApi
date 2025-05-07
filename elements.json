@@ -12,5 +12,12 @@
     "image": "https://stoppasozytom.pl/img.jpg",
     "video": "video2",
     "audio": "audio2"
+  },
+  {
+    "name": "Element 3",
+    "tekst": "tekst3",
+    "image": "https://stoppasozytom.pl/img.jpg",
+    "video": "video3",
+    "audio": "audio3"
   }
 ]
