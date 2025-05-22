@@ -2,16 +2,16 @@
   {
     "id": "100",
     "imageUrl": "http://wmw-forproffesionals.com/photo1.jpeg",
-    "title": "Test1",
-    "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "title": "China town nocą",
+    "description": "Tu będzie bardzo długi opis, na razie jest tu zatem tylko opis testowy, który absolutnie nic nie znaczy, a poniewaz musi być długi zeby przetestować prawidłowo aplikacje to pisze go nadal mimo ze nie ma to sensu. Myślę ze teraz jest juz wystarczająco długi i mozna go zakończyć. ",
     "linkDescription": "opis link",
     "link": "http://wmw-forproffesionals.com/muzyka.mp3"
   },
   {
     "id": "100",
     "imageUrl": "http://wmw-forproffesionals.com/photo2.jpeg",
-    "title": "Test2",
-    "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "title": "Retro wnętrze w remońcie",
+    "description": "Is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
     "linkDescription": "opis link2",
     "link": "http://wmw-forproffesionals.com/57a23392-d514-4975-89d6-898fb385accd.mp4"
   }
