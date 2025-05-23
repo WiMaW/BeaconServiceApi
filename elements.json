@@ -1,6 +1,7 @@
 [
   {
     "id": "100",
+    "layoutType": "layout_1",
     "imageUrl": "http://wmw-forproffesionals.com/cinema_small.jpeg",
     "title": "Kino",
     "description": "Kino zostało zbudowane w latach 1959–1962. Budynek mógł pomieścić 578 widzów. W latach 90-tych kino przestało działać. W 2010 roku rozpoczęto generalny remont, a w październiku 2017 roku kino zostało ponownie otwarte. W kinie działają dwie sale - duża oraz kamerlana (wyposażona w wygodne kanapy). Odbywają się tu seanse filmowe, koncerty, wystawiane są sztuki teatralne.",
@@ -8,7 +9,26 @@
     "link": "https://kinosyrena.pl/repertuar/"
   },
   {
+    "id": "100",
+    "layoutType": "layout_1",
+    "imageUrl": "http://wmw-forproffesionals.com/cinema_small.jpeg",
+    "title": "Muzeum Ziemi Wieluńskiej",
+    "description": "Muzeum mieści się w dawnym klasztorze sióstr bernardynek. Posiada różnorodne zbiory archeologiczne, historyczne i etnograficzne.",
+    "linkDescription": "Zobacz więcej",
+    "link": "https://muzeum.wielun.pl"
+  },
+  {
+    "id": "100",
+    "layoutType": "layout_1",
+    "imageUrl": "http://wmw-forproffesionals.com/cinema_small.jpeg",
+    "title": "Mury obronne",
+    "description": "Wieluńskie mury obronne powstały po pożarze miasta w 1335 roku, zastępując stopniowo starsze obwarowania drewniano–ziemne. Mury obronne Wielunia miały długość około 1200–1300 metrów i zajmowały obszar około 12 ha, dodatkowo otaczała je fosa. Zbiegały się tam dwie główne ulice miasta, tworząc wrzeciono z rynkiem pośrodku.",
+    "linkDescription": "Zobacz więcej",
+    "link": "https://www.um.wielun.pl/zabytki/wielun/mury-obronne.html"
+  },
+  {
     "id": "101",
+    "layoutType": "layout_2",
     "imageUrl": "http://wmw-forproffesionals.com/plac_logionow_small.jpeg",
     "title": "Plac Legionów",
     "description": "Centralny plac w kształcie prostokąta. Obecna jego zabudowa pochodzi z końca XIX wieku. W centralnym miejscu rynku zlokalizowana jest fontanna. Przy rynku znajdują się liczne lokalne sklepy oraz restauracja. W okresie letnio-wiosennym na placu rozstawiany jest bar.",
@@ -16,6 +36,7 @@
   },
   {
     "id": "102",
+    "layoutType": "layout_2",
     "imageUrl": "http://wmw-forproffesionals.com/city_hall_small.jpeg",
     "title": "Ratusz",
     "description": "W miejscu tym juz w XIV wieku wzniesiono Bramę Krakowską, która w późniejszym okresie stanowiła podwaliny pod budynek ratusza. W XV lub XVI wieku bramę powiększono o jedną kondygnację. Sam ratusz połączony z bramą wybudowano w 1842 roku i od tego czasu jest on siedzibą władz miejskich.",
